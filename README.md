@@ -11,7 +11,11 @@ const rockey = {
   playsGuitar: true,
 };
 ```
-https://threejs-git-main-rokceys-projects.vercel.app/
+# Portfolio Link
+
+🚀 Check out my portfolio here:  
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Three.js%20Projects-blue?style=for-the-badge&logo=vercel)](https://threejs-git-main-rokceys-projects.vercel.app/)
+
 
   <h2>🛠️ Technical Skills</h2>
   
